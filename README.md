@@ -24,7 +24,6 @@
 || 2. SQL Basics|
 |Spark|1. Spark Basics|
 ||2. A Priori Algorithm|
-
 ||[Final Project](https://github.com/serah1107/Education/tree/master/Python%20Education%20Program%202018/%EB%94%B0%EB%A6%89%EC%9D%B4%20Project)|
 
 
